@@ -2,7 +2,6 @@
 
 namespace SocketIO;
 use Log;
-namespace Illuminate\Broadcasting\Broadcasters;
 
 class SocketBroadcaster extends Broadcaster
 {
