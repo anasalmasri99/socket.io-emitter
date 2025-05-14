@@ -1,5 +1,5 @@
 {
-    "name": "t&/socket.io-emitter",
+    "name": "tarjama/socket-emitter",
     "description": "A PHP implementation of socket.io-emitter",
     "homepage": "https://github.com/rase-/socket.io-php-emitter",
     "support": {
